@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NumerologyCalculator/static/css/main.6865abdb.css",
+    "main.js": "/NumerologyCalculator/static/js/main.34859dee.js",
+    "static/js/453.14dcfec5.chunk.js": "/NumerologyCalculator/static/js/453.14dcfec5.chunk.js",
+    "index.html": "/NumerologyCalculator/index.html",
+    "main.6865abdb.css.map": "/NumerologyCalculator/static/css/main.6865abdb.css.map",
+    "main.34859dee.js.map": "/NumerologyCalculator/static/js/main.34859dee.js.map",
+    "453.14dcfec5.chunk.js.map": "/NumerologyCalculator/static/js/453.14dcfec5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6865abdb.css",
+    "static/js/main.34859dee.js"
+  ]
+}
